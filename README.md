@@ -1,10 +1,10 @@
-# Binance Copytrading - 币安跟单交易K线工具
+# Binance Copy Trading - 币安跟单交易K线工具
 
 ## 项目简介 / Project Introduction
 
 本项目名为 **binance-copytrading**，主要为加密货币交易员提供实时的多币种K线行情汇总展示。系统能够在220个交易对之间自动轮播切换（每10秒切换一次），相比直接访问币安官网，本工具能够帮助交易员更高效地捕捉多个加密货币的交易机会。
 
-This project, named Binance Copytrading, provides real-time multi-currency candlestick chart aggregation for cryptocurrency traders. The system automatically cycles through 220 trading pairs (switching every 10 seconds), helping traders identify trading opportunities across multiple cryptocurrencies more efficiently compared to accessing Binance directly.
+This project, named **binance-copytrading**, provides real-time multi-currency candlestick chart aggregation for cryptocurrency traders. The system automatically cycles through 220 trading pairs (switching every 10 seconds), helping traders identify trading opportunities across multiple cryptocurrencies more efficiently compared to accessing Binance directly.
 
 建议使用PC电脑访问本项目网址：[http://47.76.140.136/index.html](http://47.76.140.136/index.html)
 
