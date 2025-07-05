@@ -21,11 +21,15 @@ Currently in the free trial phase, no registration or fees required. For questio
 
 The system provides 12 selectable timeframes: 1m, 3m, 5m, 15m, 30m, 1h, 2h, 4h, 6h, 8h, 12h and 1d. This multi-timeframe analysis capability allows traders to comprehensively understand price movements across different time dimensions.
 
+![Period Switching](2.gif)
+
 - ### 多币种自动轮播 / Multi-Currency Auto-Rotation
 
 系统覆盖220个主流加密货币交易对，每10秒自动切换到下一个币种。这种高效的轮播机制让交易员能够在短时间内快速扫描大量币种的价格走势，及时发现潜在交易机会。
 
 Covering 220 major cryptocurrency trading pairs, the system automatically rotates to the next currency every 10 seconds. This efficient rotation mechanism enables traders to quickly scan price movements of numerous currencies in a short time, identifying potential trading opportunities promptly.
+
+![Multi-Currency Switching](1.gif)
 
 - ### 鼠标坐标价格线 / Mouse Position Price Line
 
@@ -33,17 +37,23 @@ Covering 220 major cryptocurrency trading pairs, the system automatically rotate
 
 As the mouse moves over the chart, a horizontal price reference line is displayed in real-time, precisely corresponding to the price level at the cursor position. This feature greatly facilitates precise price comparison and technical analysis for traders.
 
+![Price Line](1.gif)
+
 - ### K线缩放控制 / Chart Zoom Control
 
 通过键盘快捷键实现K线图表的动态缩放：
 - 按D键：逐步放大K线图表
 - 按F键：逐步缩小K线图表
+
 这种便捷的缩放控制让交易员能够自由调整视图范围，既能看到整体趋势又能观察细节波动。
 
 Dynamic chart zooming via keyboard shortcuts:
 - Press D: Zoom in gradually
 - Press F: Zoom out gradually
+
 This convenient zoom control allows traders to freely adjust the view range, observing both overall trends and detailed fluctuations.
+
+![Zoom Control](3.gif)
 
 ## 联系方式 / Contact
 
