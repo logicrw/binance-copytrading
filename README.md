@@ -6,11 +6,7 @@
 
 This project, named **binance-copytrading**, provides real-time multi-currency candlestick chart aggregation for cryptocurrency traders. The system automatically cycles through 220 trading pairs (switching every 10 seconds), helping traders identify trading opportunities across multiple cryptocurrencies more efficiently compared to accessing Binance directly.
 
-建议使用PC电脑访问本项目网址：[http://47.76.140.136/index.html](http://47.76.140.136/index.html)
-
 目前处于免费使用阶段，无需注册，不收取任何费用。如有疑惑和问题，欢迎多多交流，可添加我的微信：**308831759**
-
-Recommended to access this project on PC at: [http://47.76.140.136/index.html](http://47.76.140.136/index.html)
 
 Currently in the free trial phase, no registration or fees required. For questions or support, feel free to connect! Add my WeChat: 308831759
 
